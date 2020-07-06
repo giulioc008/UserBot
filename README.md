@@ -33,16 +33,6 @@ Library that lets you schedule your Python code to be executed later, either jus
 
 
 
-### Asyncio
-
-Modules used to make the UserBot work on 1 single thread
-
-* Version: Python version
-* Documentation: https://docs.python.org/3.9/library/asyncio.html
-* Modules name: **asyncio**
-
-
-
 ### PyMySQL
 
 Module used to connect to a MySQL Server
