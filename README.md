@@ -74,22 +74,3 @@ HTTP library for Python, built for human beings
 * Documentation: https://requests.readthedocs.io/en/master/user/advanced/
 * Module name: **requests**
 * Installing: `pip install --upgrade --no-cache-dir requests`
-
-
-
-### Telegraph
-
-Python Telegraph API wrapper
-
-* Version: 1.4.0
-* Website: https://python-telegraph.readthedocs.io/en/latest/
-* Documentation: https://python-telegraph.readthedocs.io/en/latest/telegraph.html
-* Module name: **telegraph**
-* Requirements: **requests**
-* Installing: `pip install --upgrade --no-cache-dir telegraph`
-
-
-
-## How to install the dependencies
-
-To install the dependencies, create a [Virtual Enviroment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments) and use: `pip install -r requirements.txt`

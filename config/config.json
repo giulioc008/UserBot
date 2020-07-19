@@ -43,6 +43,12 @@
       "parameters": ""
     },
     {
+      "name": "ip",
+      "description": "Check the IP address of the host service",
+      "domain": "creator",
+      "parameters": ""
+    },
+    {
       "name": "remove",
       "description": "Remove a user or a chat from the database",
       "domain": "creator",
